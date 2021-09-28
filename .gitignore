@@ -1,0 +1,2 @@
+# ignore files in walkthrough example folder
+/examples/walkthrough/*.m
