@@ -1,2 +1,5 @@
 # ignore files in walkthrough example folder
-/examples/walkthrough/*.m
+/examples/walkthrough/*
+
+# keep walkthrough final folder exception
+!/examples/walkthrough/final/.gitkeep
