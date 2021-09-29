@@ -1,0 +1,10 @@
+# ignore files in walkthrough example folder
+/examples/walkthrough/*
+
+# keep walkthrough final folder exception
+!/examples/walkthrough/final
+
+# ignore exercise folder except instructions and solution
+/examples/exercise/*
+!/examples/exercise/README*
+!/examples/exercise/solution
