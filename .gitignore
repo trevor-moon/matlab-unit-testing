@@ -6,5 +6,5 @@
 
 # ignore exercise folder except instructions and solution
 /examples/exercise/*
-!/examples/exercise/README.md
+!/examples/exercise/README*
 !/examples/exercise/solution
