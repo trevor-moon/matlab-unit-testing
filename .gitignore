@@ -2,4 +2,4 @@
 /examples/walkthrough/*
 
 # keep walkthrough final folder exception
-!/examples/walkthrough/final/.gitkeep
+!/examples/walkthrough/final
