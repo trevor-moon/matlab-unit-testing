@@ -141,7 +141,6 @@ function s = sumNumbers(varargin)
     nargs = length(varargin);
     s = 0;
     for inum = 1:nargs
-        % assert(isnumeric(varargin{inum}), 'sumNumbers:MustBeNumeric', 'Inputs must be numeric');
         s = s + varargin{inum};
     end
 end
