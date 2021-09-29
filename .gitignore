@@ -3,3 +3,8 @@
 
 # keep walkthrough final folder exception
 !/examples/walkthrough/final
+
+# ignore exercise folder except instructions and solution
+/examples/exercise/*
+!/examples/exercise/README.md
+!/examples/exercise/solution
