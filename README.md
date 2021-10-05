@@ -1,6 +1,6 @@
 # matlab-unit-testing
 
-Examples and resources to getting started with MATLAB's Unittest Framework.
+Brief overview, examples, and resources to getting started with MATLAB's Unittest Framework.
 
 ## Getting Started
 
@@ -87,7 +87,21 @@ Perform unit test(s) with multiple values.
 - [Write Parameterized Tests][write-parameterized-tests]
 - [Write Basic Parameterized Tests][write-basic-parameterized-tests]
 
+## Contributing
+
+Please open an [issue][new issue] or [feature reqeust][new issue] if you would like to contribute. All suggestions and feedback are welcome.
+
+If you'd like to add content directly, [fork][fork] this repo, add your content and [submit a pull request][pull-request].
+
+## Questions and Comments
+
+Please feel free to reach out and [email me][email] with the subject as the repo name.
+
 <!-- links -->
+[email]: mailto:trevor.r.moon@gmail.com
+[new issue]: https://github.com/trevor-moon/matlab-unit-testing/issues/new
+[fork]: https://github.com/trevor-moon/matlab-unit-testing/fork
+[pull-request]: https://github.com/trevor-moon/matlab-unit-testing/pulls
 [write-basic-parameterized-tests]: https://www.mathworks.com/help/matlab/matlab_prog/create-basic-parameterized-test.html
 [write-parameterized-tests]: https://www.mathworks.com/help/matlab/matlab_prog/use-parameters-in-class-based-tests.html
 [function-fixtures]: https://www.mathworks.com/help/matlab/matlab_prog/write-test-using-setup-and-teardown-functions.html
