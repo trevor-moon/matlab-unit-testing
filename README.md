@@ -6,7 +6,7 @@ Examples and resources to getting started with MATLAB's Unittest Framework.
 
 ### Definition
 
-What is a 'unit test?' A unit test is a way of testing a unit - the smallest piece of code (e.g., function or program) that can by isolated and tested for correctness, i.e., they work as intended.
+What is a 'unit test?' A unit test is a way of testing a unit - the smallest piece of code (e.g., function or program) that can be isolated and tested for correctness, i.e., it works as intended.
 
 "[unit testing] is a software testing method by which individual units of source code - sets of one or more computer modules together with associated control data, usage procedures, and operating procedures - are teste to determine whether they are fit for use." - [Wikipedia][unit-test-wiki]
 
@@ -20,7 +20,7 @@ Unit testing is available through [MATLAB Testing Frameworks][testing-frameworks
 - [Function-Based Unit Tests][function-unit-tests]
 - [Class-Based Unit Tests][class-unit-tests]
 
-In general, the class-based unit tests are is most advanced and feature-rich way to write unit tests. In order of simple to advanced:
+In general, the class-based unit tests are the most advanced and feature-rich way to write unit tests. In order of simple to advanced:
 
 1. script-based
 2. function-based
@@ -41,8 +41,8 @@ For specific conventions for *how to name* unit tests, see [additional resources
 
 ### Unit Testing
 
-1. Write a function/program (`foo.m`)
-2. Write a unit test file (`fooTest.m`)
+1. Write a unit test file (`fooTest.m`)
+2. Write a function/program (`foo.m`)
 3. Run the unit test(s)
    1. `results = runtests('foo')`
    2. `results = run(foo)`
